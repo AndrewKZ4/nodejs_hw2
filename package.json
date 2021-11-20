@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_hw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "dev" : "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKZ4/nodejs_hw2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "hw2"
+  ],
+  "author": "Andrey Kojuhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewKZ4/nodejs_hw2/issues"
+  },
+  "homepage": "https://github.com/AndrewKZ4/nodejs_hw2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
